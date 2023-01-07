@@ -1,3 +1,1 @@
-### It's me Nicoretti,/dev/null,NaCl,...
-
 ### TL;DR:  Command Line & Unix Enthusiast
